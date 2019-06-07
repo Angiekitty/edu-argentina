@@ -1,0 +1,5 @@
+# edu-argentina
+Applying unsupervised machine learning techniques to help plan an education program in Argentina
+n this Project, I analyze economic and social development indicators for 22 provinces of Argentina to help plan an education program. The data for this project was published by INDEC and includes indicators such as poverty, population, and GDP for each province.
+I manipulate data frames using dplyr, make simple plots using ggplot2, Principal Component Analysis (PCA)to reduce redundancies and highlight patterns that are not apparent in the raw data. After visualizing the patterns, apply k-means clustering to partition the provinces into groups with similar development levels.
+Having a better ideal on how social and economic welfare varies among provinces, help further planning of public policy by helping allocate resources to develop infrastructure, education, and welfare programs. A pilot phase of the program will be carried out to identify design issues. The goal is to select the proposal with the most diverse set of provinces.
